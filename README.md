@@ -1,2 +1,1 @@
-# nasajpl.github.io
- Public-facing open source landing page for NASA's Jet Propulsion Laboratory
+This public-facing open source landing page for NASA's Jet Propulsion Laboratory is under construction.
